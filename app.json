@@ -79,7 +79,7 @@
     },
     "SECRET_KEY": {
       "description": "Django Secret Key",
-      "value": ""
+      "value": " "
     }
   }
 }
