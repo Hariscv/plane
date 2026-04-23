@@ -1,4 +1,4 @@
-name: Bug report
+name: Bug reports
 description: Create a bug report to help us improve Plane
 title: "[bug]: "
 labels: [🐛bug, plane]
